@@ -4,18 +4,20 @@
     "url": "https://davr-bank.akhter.dev/ru",
     "icon": "https://icons.duckduckgo.com/ip3/davr-bank.akhter.dev.ico",
     "slug": "davr-bank",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.99%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 526,
     "timeDay": 526,
     "timeWeek": 526,
     "timeMonth": 526,
     "timeYear": 526,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-12-06": 0
+    }
   },
   {
     "name": "introdex.io",

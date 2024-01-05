@@ -13,7 +13,7 @@
     "time": 719,
     "timeDay": 849,
     "timeWeek": 969,
-    "timeMonth": 719,
+    "timeMonth": 729,
     "timeYear": 719,
     "dailyMinutesDown": {}
   },
@@ -22,18 +22,19 @@
     "url": "https://introdex.io",
     "icon": "https://icons.duckduckgo.com/ip3/introdex.io.ico",
     "slug": "introdex-io",
-    "status": "up",
-    "uptime": "99.40%",
+    "status": "down",
+    "uptime": "99.41%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "97.40%",
     "uptimeMonth": "99.40%",
-    "uptimeYear": "99.40%",
-    "time": 657,
-    "timeDay": 880,
-    "timeWeek": 809,
-    "timeMonth": 657,
-    "timeYear": 657,
+    "uptimeYear": "99.41%",
+    "time": 655,
+    "timeDay": 734,
+    "timeWeek": 794,
+    "timeMonth": 652,
+    "timeYear": 655,
     "dailyMinutesDown": {
+      "2024-01-05": 0,
       "2024-01-03": 263
     }
   }

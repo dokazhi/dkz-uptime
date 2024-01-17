@@ -4,7 +4,7 @@
     "url": "https://davr-bank.akhter.dev/ru",
     "icon": "https://icons.duckduckgo.com/ip3/davr-bank.akhter.dev.ico",
     "slug": "davr-bank",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
@@ -15,7 +15,9 @@
     "timeWeek": 1059,
     "timeMonth": 903,
     "timeYear": 816,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2024-01-17": 0
+    }
   },
   {
     "name": "introdex.io",
@@ -23,18 +25,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/introdex.io.ico",
     "slug": "introdex-io",
     "status": "up",
-    "uptime": "98.65%",
-    "uptimeDay": "92.65%",
-    "uptimeWeek": "95.52%",
-    "uptimeMonth": "98.07%",
-    "uptimeYear": "98.65%",
+    "uptime": "98.66%",
+    "uptimeDay": "93.25%",
+    "uptimeWeek": "95.60%",
+    "uptimeMonth": "98.09%",
+    "uptimeYear": "98.66%",
     "time": 720,
     "timeDay": 691,
     "timeWeek": 736,
     "timeMonth": 729,
     "timeYear": 720,
     "dailyMinutesDown": {
-      "2024-01-17": 105,
+      "2024-01-17": 96,
       "2024-01-14": 43,
       "2024-01-13": 57,
       "2024-01-12": 162,

@@ -25,7 +25,7 @@
     "url": "https://introdex.io",
     "icon": "https://icons.duckduckgo.com/ip3/introdex.io.ico",
     "slug": "introdex-io",
-    "status": "up",
+    "status": "down",
     "uptime": "97.88%",
     "uptimeDay": "97.44%",
     "uptimeWeek": "98.79%",
@@ -37,6 +37,7 @@
     "timeMonth": 723,
     "timeYear": 722,
     "dailyMinutesDown": {
+      "2024-02-19": 0,
       "2024-02-18": 37,
       "2024-02-15": 18,
       "2024-02-14": 49,
